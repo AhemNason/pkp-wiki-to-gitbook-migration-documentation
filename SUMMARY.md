@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Resources](resources.md)
-* [1. Converting PKP Wiki Documentation](1-wiki.md)
+* [1. Converting PKP Wiki Documentation](1-wiki.md)   
+    * [Common Issues](1-1-issues.md)
 * [2. Converting PDF Documentation](2-pdf.md)
 * [3. Converting Other Docs](3-docs.md)
 * [4. Updating Documentation](4-update.md)
