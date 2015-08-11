@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Hey
+* [Hey](1-wiki.md)
 
