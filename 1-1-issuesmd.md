@@ -1,0 +1,1 @@
+* pandoc ignores mediawiki boxes: ```{{warning| ...}}```
