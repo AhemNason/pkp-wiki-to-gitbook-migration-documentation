@@ -2,11 +2,9 @@
 
 ##What You'll Need
 
->It is worth noting that GitBook has it's own rich documentation about [how to use GitBook](http://help.gitbook.com/). You'll need that. 
-
 [Pandoc](http://pandoc.org/) // Pandoc can convert a wide variety of formats to Markdown (and Markdown to a wide variety of formats). It's run via command line. 
 
-[GitBook](http://www.gitbook.com) | Github // Get an account!
+[GitBook](http://www.gitbook.com) | [Github](http://github.com) // A GitHub account isn't necessary to have for editing or creating a GitBook, but you can tie the two accounts together for a little more flexibility. It is worth noting that **GitBook has it's own rich documentation** about [how to use GitBook](http://help.gitbook.com/). You'll need that.
 
 [Markdown Skills](http://daringfireball.net/projects/markdown/syntax) // Markdown is essential here, but you're in luck because it's **super easy**. 
 
