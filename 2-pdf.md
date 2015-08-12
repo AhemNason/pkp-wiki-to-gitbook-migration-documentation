@@ -29,5 +29,5 @@ Converting a PDF to Markdown can be a fairly *involved process*. PDFs are primar
 
 There are a number of different tools out there that advertise conversion of PDF to other formats. Adobe's Acrobat Pro is pretty reasonable at converting PDF to HTML or Word Doc, for example. The most important thing to remember, though, is that **you will need to convert PDF to some other format *before converting to Markdown*.** 
 
-Because PDF is about the look of the content instead of the content itself, though, you're more likely to run into issues like incorrect text formatting (your italicized text might not be italicized, for example) or spacing issues. 
+Because PDF is about the look of the content instead of the content itself, though, you're more likely to run into issues like incorrect text formatting (your italicized text might not be italicized, for example) or spacing issues. You should expect any document with more than just plain text to require some effort to clean up. 
 
