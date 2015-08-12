@@ -12,6 +12,7 @@ Converting documentation *can* be very simple, if the planets align. Here are a 
 - ByWord
 - Draft
 - GitBook's built-in editor
+
  
 While a discrete editor is by no means necessary, they can be convenient for drafting documents locally before adding them to a document. 
 
