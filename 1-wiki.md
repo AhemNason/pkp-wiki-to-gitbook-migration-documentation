@@ -1,9 +1,11 @@
 # Converting PKP Wiki Documentation
 
-Conversion from PKP Wiki is broken up into two major steps. 
+Conversion from PKP Wiki is broken up into four major steps. 
 
 1. Converting Mediawiki formatted text in the Wiki to Markdown.
 2. Building the GitBook. 
+3. Clean up text. 
+4. Update as Necessary. 
 
 A PKP Wiki document is organized differently than a GitBook because they are usually one discrete document with a Table of Contents at the top of the page. Any individual Wiki document is really just one page, whereas a GitBook is a collection of pages organized into a document. 
 
@@ -32,4 +34,8 @@ It is highly recommended that you read through the [GitBook help](http://help.gi
 The most important thing here, however, is that you know where you'll want to paste your Markdown that you've converted from mediawiki. You could paste it all in one large document and part it out, or you could paste each section as you go. It's really up to you. Listen to your heart. 
 
 **Courage**. 
+
+## Cleaning Up the Text 
+
+It's likely that the migration from mediawiki to GitBook Markdown might produce text that isn't a direct 1:1 match. Things like discrete line length might end up requiring quite a bit of clean up. 
 
