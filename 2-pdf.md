@@ -4,7 +4,24 @@
 
 Pandoc has support to convert a number of formats to Markdown. While it's worth noting that not all formats will convert as easily as Mediawiki might, the list of supported input formats is fairly substantial and a great place to start. Pandoc supports:
 
-- 
+- docbook
+- haddock
+- html
+- twiki
+- docx
+- t2t
+- epub
+- commonmark
+- json
+- latex
+- markdown (github, strict, mmd, standard)
+- mediawiki
+- native
+- opml
+- rst
+- textile
+
+If the document format you are converting 
 
 ##PDF Conversion
 
