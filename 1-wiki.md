@@ -39,5 +39,13 @@ The most important thing here, however, is that you know where you'll want to pa
 
 It's likely that the migration from mediawiki to GitBook Markdown might produce text that isn't a direct 1:1 match. Things like discrete line length might end up requiring quite a bit of clean up. You're likely to be on the hook for a little bit of the following:
 
-- 
+- line wrapping or adjustments
+- unconverted characters or code
+- arranging chunks of text into chapters
+- updating documentation text and urls
+- moving images to a git repo
+
+## Update as Necessary
+
+Uhh... update as necessary. 
 
