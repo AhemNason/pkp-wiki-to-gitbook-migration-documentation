@@ -21,11 +21,13 @@ Pandoc has support to convert a number of formats to Markdown. While it's worth 
 - rst
 - textile
 
-If the document format you are converting 
+If the document format you are converting is *some other thing*, you'll be on the hook for converting it twice. 
 
 ##PDF Conversion
 
 Converting a PDF to Markdown can be a fairly *involved process*. PDFs are primarily about preserving the book-like view/structure of a document but aren't really all that great at preserving the content of the document itself. As someone tasked with converting a PDF document to just about any other format, there are going to be some obstacles in the way. 
 
 There are a number of different tools out there that advertise conversion of PDF to other formats. Adobe's Acrobat Pro is pretty reasonable at converting PDF to HTML or Word Doc, for example. The most important thing to remember, though, is that **you will need to convert PDF to some other format *before converting to Markdown*.** 
+
+Because PDF is about the look of the content instead of the content itself, though, you're more likely to run into issues like incorrect text formatting (your italicized text might not be italicized, for example) or spacing issues. 
 
