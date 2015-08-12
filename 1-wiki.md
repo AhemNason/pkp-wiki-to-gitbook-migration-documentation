@@ -1,3 +1,3 @@
-#Converting PKP Wiki Documentation
+# Converting PKP Wiki Documentation
 
-If 
+Converting from the PKP to 
