@@ -37,5 +37,7 @@ The most important thing here, however, is that you know where you'll want to pa
 
 ## Cleaning Up the Text 
 
-It's likely that the migration from mediawiki to GitBook Markdown might produce text that isn't a direct 1:1 match. Things like discrete line length might end up requiring quite a bit of clean up. 
+It's likely that the migration from mediawiki to GitBook Markdown might produce text that isn't a direct 1:1 match. Things like discrete line length might end up requiring quite a bit of clean up. You're likely to be on the hook for a little bit of the following:
+
+- 
 
