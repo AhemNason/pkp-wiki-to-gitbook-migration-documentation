@@ -7,7 +7,4 @@
 * [2. Converting PDF Documentation](2-pdf.md)
 * [3. Converting Other Docs](3-other.md)
 * [4. Updating Documentation](4-update.md)
-* Appendicies
-   * [Appendix 1](1.md)
-   * [Appendix 2](2.md)
 
