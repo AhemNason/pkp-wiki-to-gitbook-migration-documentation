@@ -7,4 +7,5 @@
 * [Converting PDF Documentation](2-pdf.md)
 * [Converting Other Docs](3-other.md)
 * [Updating Documentation](4-update.md)
+* [Adding a Translation to a Document](5-translate.md)
 
